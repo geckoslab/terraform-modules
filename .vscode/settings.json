@@ -1,0 +1,6 @@
+{
+  // Workbench settings
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "vscode-icons",
+}

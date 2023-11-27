@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "GitHub.github-vscode-theme",
+    "vscode-icons-team.vscode-icons",
+    "wayou.vscode-todo-highlight",
+    "GitHub.copilot",
+    "eamodio.gitlens",
+  ]
+}
